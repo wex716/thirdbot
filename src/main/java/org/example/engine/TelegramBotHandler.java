@@ -13,8 +13,8 @@ public class TelegramBotHandler extends TelegramLongPollingBot {
     private ChatsRouter chatsRouter;
 
     public TelegramBotHandler() {
-        botUsername = "firsttgbot1323D_nikita_bot";
-        botToken = "7135286266:AAFXkqftOFbvNheDAWlxhOPsfv2xs-4W0-E";
+        botUsername = "thirdNIKITABot";
+        botToken = "7066321274:AAH4vec5sBp-THkHAjGma26Lzgj9VQXeBP8";
 
         chatsRouter = new ChatsRouter();
     }
